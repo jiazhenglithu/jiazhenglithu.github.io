@@ -4,7 +4,7 @@ collection: publications
 link: https://arxiv.org/abs/2507.18028
 excerpt: 
 date: 2025-07-01
-venue: ''
+venue: 'None'
 paperurl: 
 citation: 
 ---
