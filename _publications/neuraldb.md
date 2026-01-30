@@ -3,7 +3,7 @@ title: "NeuralDB: Scaling Knowledge Editing in LLMs to 100,000 Facts with Neural
 collection: publications
 link: https://arxiv.org/abs/2507.18028
 excerpt: 
-date: 2025-07-01
+date: 
 venue: 'ICLR 2026'
 paperurl: 
 citation: 
