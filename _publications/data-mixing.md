@@ -3,8 +3,8 @@ title: "Data mixing can induce phase transitions in knowledge acquisition"
 collection: publications
 link: https://arxiv.org/abs/2505.18091
 excerpt: 
-date: ' '
-venue: 'NIPS 2025, Spotlight'
+date: 2025-01-01
+venue: 'NIPS, Spotlight'
 paperurl: 
 citation: 
 ---
