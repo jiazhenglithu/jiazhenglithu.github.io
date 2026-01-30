@@ -3,8 +3,8 @@ title: "QuestA: Expanding Reasoning Capacity in LLMs via Question Augmentation"
 collection: publications
 link: https://arxiv.org/abs/2507.13266
 excerpt: 
-date: 
-venue: 'ICLR 2026'
+date: 2026-01-01
+venue: 'ICLR'
 paperurl: 
 citation: 
 ---
