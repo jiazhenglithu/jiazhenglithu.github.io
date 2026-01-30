@@ -4,7 +4,7 @@ collection: publications
 link: https://arxiv.org/abs/2502.12706
 excerpt: 
 date: 2025-02-01
-venue: 'ICML, Poster'
+venue: 'ICML 2025, Poster'
 paperurl: 
 citation: 
 ---
