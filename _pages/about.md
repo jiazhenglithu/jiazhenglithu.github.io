@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am now a first-year Ph.D. student at the [College of AI](https://collegeai.tsinghua.edu.cn/), Tsinghua University, advised by Professor [Jingzhao Zhang](https://scholar.google.com/citations?user=8NudxYsAAAAJ&hl=en&oi=ao). Previously, I did my undergraduate at School of Computer Science, [Beijing Institute of Technology](https://www.bit.edu.cn/).
+I am now a second-year Ph.D. student at the [College of AI](https://collegeai.tsinghua.edu.cn/), Tsinghua University, advised by Professor [Jingzhao Zhang](https://scholar.google.com/citations?user=8NudxYsAAAAJ&hl=en&oi=ao).
 
 I am a deeply interest-driven individual, and I pursue research purely out of passion. I firmly believe that exceptional ideas and groundbreaking advancements in academia often emerge from open exchanges and the collision of diverse perspectives. If you have any insights, differing opinions on my work, or fresh ideas you wish to share, I would be truly grateful to hear from you.
 
@@ -30,6 +30,11 @@ I have worked on topics including:
 
 
 <h2 class="section-title">Experiences</h2>
+**ByteDance Seed** (Nov. 2025 – Present)  
+*Research Intern*  
+
+- Research on efficient pretraining for large language models.
+
 **Ant Group** (Apr. 2025 – Oct. 2025)  
 *Research Intern at RL Lab*  
 
