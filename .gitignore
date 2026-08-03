@@ -18,3 +18,8 @@ package-lock.json
 
 # Ignore folders related to IDEs
 .vscode/
+.cursor/
+
+# Ignore AI agent documentation (local-only)
+agent.md
+memory.md
