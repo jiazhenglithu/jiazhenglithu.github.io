@@ -25,7 +25,7 @@ author:
   avatar           : "ava_2.png"
   name             : "Jiazheng Li"
   pronouns         : # example: "she/her"  
-  bio              : "First year Ph.D. student in College of AI, Tsinghua University"
+  bio              : "Second year Ph.D. student in College of AI, Tsinghua University"
   location         : "Beijing"
   employer         : 
   uri              : # URL
@@ -196,10 +196,8 @@ defaults:
       path: ""
       type: publications
     values:
-      layout: single
+      layout: publication
       author_profile: true
-      share: true
-      comments: true
 
 
 # Sass/SCSS
