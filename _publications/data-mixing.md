@@ -7,10 +7,12 @@ arxiv: https://arxiv.org/abs/2505.18091
 authors:
   - name: "Xinran Gu"
   - name: "Kaifeng Lyu"
+    url: "https://kaifeng.ac/"
   - name: "Jiazheng Li"
     url: "https://jiazhenglithu.github.io"
     highlight: true
   - name: "Jingzhao Zhang"
+    url: "https://sites.google.com/view/jingzhao/home"
 abstract: >
   Large Language Models (LLMs) are typically trained on data mixtures: most data come from web
   scrapes, while a small portion is curated from high-quality sources with dense domain-specific

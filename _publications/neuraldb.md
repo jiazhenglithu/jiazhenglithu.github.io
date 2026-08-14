@@ -8,11 +8,13 @@ authors:
   - name: "Weizhi Fei"
   - name: "Hao Shi"
   - name: "Jing Xu"
+    url: "https://jingxuthu.github.io/"
   - name: "Jingchen Peng"
   - name: "Jiazheng Li"
     url: "https://jiazhenglithu.github.io"
     highlight: true
   - name: "Jingzhao Zhang"
+    url: "https://sites.google.com/view/jingzhao/home"
   - name: "Bo Bai"
   - name: "Wei Han"
   - name: "Zhenyuan Chen"

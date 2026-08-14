@@ -7,10 +7,12 @@ arxiv: https://arxiv.org/abs/2502.12706
 code: https://github.com/JingXuTHU/Scalable_Model_Merging_with_Progressive_Layerwise_Distillation
 authors:
   - name: "Jing Xu"
+    url: "https://jingxuthu.github.io/"
   - name: "Jiazheng Li"
     url: "https://jiazhenglithu.github.io"
     highlight: true
   - name: "Jingzhao Zhang"
+    url: "https://sites.google.com/view/jingzhao/home"
 abstract: >
   Model merging offers an effective way to integrate the capabilities of multiple fine-tuned models.
   However, the performance degradation of the merged model remains a challenge, particularly when

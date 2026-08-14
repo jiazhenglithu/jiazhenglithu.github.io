@@ -10,12 +10,15 @@ authors:
     url: "https://jiazhenglithu.github.io"
     highlight: true
   - name: "Hongzhou Lin"
+    url: "https://www.hongzhoulin.com/"
   - name: "Hong Lu"
   - name: "Kaiyue Wen"
+    url: "https://whenwen.github.io/"
   - name: "Zaiwen Yang"
   - name: "Jiaxuan Gao"
   - name: "Yi Wu"
   - name: "Jingzhao Zhang"
+    url: "https://sites.google.com/view/jingzhao/home"
 abstract: >
   Reinforcement learning (RL) has emerged as a central paradigm for training large language models
   (LLMs) in reasoning tasks. Yet recent studies question RL's ability to incentivize reasoning

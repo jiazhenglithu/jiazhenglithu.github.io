@@ -16,14 +16,14 @@ layout: default
 
         {% if page.authors %}
         <div class="pub-authors">
-          {% for author in page.authors %}
-            {% if author.highlight %}
-              {% if author.url %}<a href="{{ author.url }}"><strong>{{ author.name }}</strong></a>{% else %}<strong>{{ author.name }}</strong>{% endif %}
-            {% else %}
-              {% if author.url %}<a href="{{ author.url }}">{{ author.name }}</a>{% else %}{{ author.name }}{% endif %}
-            {% endif %}
-            {% unless forloop.last %}, {% endunless %}
-          {% endfor %}
+          {%- for author in page.authors -%}
+            {%- if author.highlight -%}
+              {%- if author.url -%}<a href="{{ author.url }}"><strong>{{ author.name }}</strong></a>{%- else -%}<strong>{{ author.name }}</strong>{%- endif -%}
+            {%- else -%}
+              {%- if author.url -%}<a href="{{ author.url }}">{{ author.name }}</a>{%- else -%}{{ author.name }}{%- endif -%}
+            {%- endif -%}
+            {%- unless forloop.last -%}, {% endunless -%}
+          {%- endfor -%}
         </div>
         {% endif %}
 
