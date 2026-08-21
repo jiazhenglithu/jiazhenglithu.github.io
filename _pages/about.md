@@ -31,14 +31,16 @@ I have worked on topics including:
 
 <h2 class="section-title">Experiences</h2>
 **ByteDance Seed** (Nov. 2025 – Present)  
-*Research Intern*  
+*Research Intern, LLM Pre-training*  
 
 - Research on efficient pretraining for large language models.
+- Accelerating Optimization for LLMs
 
-**Ant Group** (Apr. 2025 – Oct. 2025)  
-*Research Intern at RL Lab*  
+**Ant Group RL Lab** (Apr. 2025 – Oct. 2025)  
+*Research Intern, LLM Post-training*  
 
 - Improved Reasoning LLM with RL, boosting a 1.5B model's AIME24 and AIME25 scores to 72.5 and 62.3, up over 10 points.
+- Attempted to enhance Reasoning LLM using the approach of multi-turn agent.
 
 
 <h2 class="section-title">Publications</h2>
