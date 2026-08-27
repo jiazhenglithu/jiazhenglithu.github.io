@@ -57,3 +57,8 @@ Clean GPT-style pretraining with:
 **What-s-up Chat Software** &nbsp; [<i class="fab fa-github"></i>](https://github.com/foreverlasting1202/What-s-up)  
 - Developed a full-featured chat software.
 - Backend communication, functional testing, and debugging.
+
+<h2 id="musings" class="section-title">Musings</h2>
+{% for post in site.musings reversed %}
+  {% include archive-single.html %}
+{% endfor %}

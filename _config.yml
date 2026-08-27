@@ -181,6 +181,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
+  musings:
+    output: true
+    permalink: /musings/:path/
 
 
 defaults:
@@ -197,6 +200,13 @@ defaults:
       type: publications
     values:
       layout: publication
+      author_profile: true
+  # _musings
+  - scope:
+      path: ""
+      type: musings
+    values:
+      layout: single
       author_profile: true
 
 
