@@ -1,3 +1,11 @@
 main:
+  - title: "Research Interest"
+    url: /#research-interest
+  - title: "Experiences"
+    url: /#experiences
+  - title: "Publications"
+    url: /#publications
+  - title: "Projects"
+    url: /#projects
   - title: "CV"
     url: https://jiazhenglithu.github.io/files/main.pdf

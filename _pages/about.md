@@ -15,13 +15,6 @@ My preferred email: <Foreverlasting1202@outlook.com>.
 
 I welcome any opportunity to connect and exchange ideas with you!
 
-<div class="page-nav">
-  <a href="#research-interest">Research Interest</a>
-  <a href="#experiences">Experiences</a>
-  <a href="#publications">Publications</a>
-  <a href="#projects">Projects</a>
-</div>
-
 <h2 id="research-interest" class="section-title">Research Interest</h2>
 My research focuses on machine learning, both on the theoretical and empirical sides. On the theoretical side, I enjoy conducting various experiments and constructing appropriate and realistic theoretical frameworks based on the results. On the empirical side, I have hands-on experience with supervised fine-tuning of large-scale LLMs and reinforcement learning. Recently, I have been particularly interested in the optimization aspect of LLM pre-training and the RL aspect of post-training.
 
