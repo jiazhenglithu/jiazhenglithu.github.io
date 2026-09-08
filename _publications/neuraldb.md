@@ -2,7 +2,7 @@
 title: "NeuralDB: Scaling Knowledge Editing in LLMs to 100,000 Facts with Neural KV Database"
 collection: publications
 date: 2026-01-01
-venue: 'ICLR'
+venue: 'ICLR, Poster'
 arxiv: https://arxiv.org/abs/2507.18028
 authors:
   - name: "Weizhi Fei"
