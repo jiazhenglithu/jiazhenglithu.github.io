@@ -27,21 +27,27 @@ I have worked on topics including:
 
 
 <h2 id="experiences" class="section-title">Experiences</h2>
-**ByteDance Seed** (Nov. 2025 – Present)  
-*Research Intern, LLM Pre-training*  
+**Qwen** (Nov. 2026 – Present)<br>
+*Research Intern, LLM Pre-training*
 
-- Research on efficient pretraining for large language models.
-- Accelerating Optimization for LLMs.
+- Research on LLM pre-training.
 
-**Ant Group RL Lab** (Apr. 2025 – Oct. 2025)  
-*Research Intern, LLM Post-training*  
+**ByteDance Seed** (Nov. 2025 – Oct. 2026)<br>
+*Research Intern, LLM Pre-training*
+
+- Proposed LARE, a simple loss-reweighting method for multi-domain LLM pretraining, improving a 1.5B model by an average of 7.84 percentage points across five benchmarks with negligible time and memory overhead.
+- Developed ActGD, an activation-aware optimizer that unifies hyperparameters across all model parameters while outperforming Muon and AdamW.
+
+**Ant Group RL Lab** (Apr. 2025 – Sep. 2025)<br>
+*Research Intern, LLM Post-training*
 
 - Improved Reasoning LLM with RL, boosting a 1.5B model's AIME24 and AIME25 scores to 72.5 and 62.3, up over 10 points.
 - Attempted to enhance Reasoning LLM using the approach of multi-turn agent.
 
 
 <h2 id="publications" class="section-title">Publications</h2>
-{% for post in site.publications reversed %}
+{% assign publications = site.publications | sort: "date" | reverse %}
+{% for post in publications %}
   {% include archive-single.html %}
 {% endfor %}
 
